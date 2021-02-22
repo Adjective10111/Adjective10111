@@ -16,7 +16,7 @@ I'm familiar with these too:
 - Node.js
 - PHP
 
-Now I'm working on Android and Back-end... Hope to add them above soon😉
+Now I'm working on Android and Wordpress(PHP)... Hope to add them above soon😉
 <!--
 **Adjective10111/Adjective10111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
