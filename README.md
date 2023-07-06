@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohammadmahdi. I'm a junior computer engineer; I've got my bachelor in Computer Engineering from the University of Tehran.
+I'm Mohammadmahdi. I'm a junior software engineer; I've got my bachelor in Computer Engineering from the University of Tehran.
 
 I'm a fast learner, because I love to know and understand.
 I try to always move forward and expand my knowledge and skills.
