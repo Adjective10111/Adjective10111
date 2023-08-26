@@ -37,7 +37,7 @@ But to name the frameworks that I'm _currently_ working with:
 - Express.js
 - Laravel
 
-## Hubby 🕹️
+## Hobby 🕹️
 
 As for my hubbies, other than learning, I play games and watch movies.
 
