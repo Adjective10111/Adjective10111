@@ -1,41 +1,48 @@
 ## Hi there 👋
 
-I'm Mohammadmahdi. I'm a junior software engineer; I've got my bachelor in Computer Engineering from the University of Tehran.
+I'm Mohammadmahdi. I'm a senior software developer; I've got my bachelor in Computer Engineering from the University of Tehran
+and continuing my education as a Computer-Architecture master student in this top university of Iran.
 
-I'm a fast learner, because I love to know and understand.
+I'm a fast learner, because of my obsession to know and understand.
 I try to always move forward and expand my knowledge and skills.
 
-Due to my passionate learnings, I've learned many programming languages😅.
+Due to my passionate learnings, I've learned many programming languages and frameworks😅.
+And in doing so, I saw that these are just tools that have a slight advantage over eachother in their designated field,
+and jumping from one to the other is no big deal.
 
 ## My Skills 🤹‍♂️
 
-As I said, I love to learn so I have a _long_ learning list :)
-which I'll add to the list when I learn more🙃.
+As I've said, I love to learn, therefore, I have a _long_ learning list :)
+which I'll update when I learn more🙃.
 
 ###### and I also need to review some to remember the syntax and such😁
 
-- Typescript
-  - Express.js
-  - Nest.js - __learning__
-  - React - __in learning list__
-  <!-- - Electron - __in learning list__
-  - React.native - __in learning list__ -->
+- C/C++
 - PHP
   - Laravel
+- Typescript/Javascript
+  - Express.js
+  - React - __in learning list__
+  <!-- - Electron - __in learning list__
+  - Nest.js - __learning__
+  - React.native - __in learning list__ -->
 - Java
   - JavaFX
   - Spring - _need review_
-- Kotlin - __in learning list__
-- C#
-  - .Net - _abandoned_
 - Python
   - OpenCV - _a bit_
-- C/C++
+- Kotlin - __in learning list__
+- C#
+  - .Net - __in learning list__
 
-But to name the frameworks that I'm _currently_ working with:
+But to name the tools that I'm _currently_ using:
 
-- Express.js
-- Laravel
+- Full-time Job:
+  - C++
+  - Java
+- Freelancing Project:
+  - Laravel
+  - Express.js
 
 ## Hobby 🕹️
 
